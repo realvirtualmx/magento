@@ -1,5 +1,5 @@
 {
-  "name": "ipfdigital/magento",
+  "name": "ipfdigital/magento-testing",
   "description": "Creditea Payment for Magento 2",
   "type": "magento2-module",
   "version": "2.1.0",
